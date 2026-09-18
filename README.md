@@ -1,3 +1,5 @@
+curl ascii.live/rick
+
  <h1 align="center">Hi 👋, I'm Ankush Sharma</h1>
 <h3 align="center">Student @ SIET Nilokheri | Data Analyst | Python | SQL | Data Visualization | AI/ML</h3>
 
