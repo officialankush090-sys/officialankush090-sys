@@ -1,3 +1,46 @@
+# 👋 Hi, I'm Ankush
+
+<table>
+<tr>
+<td width="35%" align="center">
+
+<img src="YOUR_PROFILE_PHOTO_URL" width="220" style="border-radius:50%;">
+
+### Ankush
+**B.Tech Computer Engineering Student**
+
+📍 SIET Nilokheri, Haryana
+
+</td>
+
+<td width="65%">
+
+```text
+ankush@github:~$ whoami
+
+┌───────────────────────────────────────────────┐
+│                                               │
+│  👨‍💻  Ankush                                  │
+│                                               │
+│  🎓  B.Tech Computer Engineering              │
+│  🏫  SIET Nilokheri                           │
+│  📊  Data Analytics Enthusiast                │
+│  🐍  Python Developer                          │
+│  💡  Learning DSA & AI/ML                      │
+│                                               │
+│  ───────────────────────────────────────────  │
+│                                               │
+│  Currently learning:                          │
+│  → Python                                     │
+│  → Data Analytics                             │
+│  → SQL                                        │
+│  → DSA                                        │
+│  → AI / Machine Learning                      │
+│                                               │
+└───────────────────────────────────────────────┘
+ 
+ 
+ 
  <h1 align="center">Hi 👋, I'm Ankush Sharma</h1>
 <h3 align="center">Student @ SIET Nilokheri | Data Analyst | Python | SQL | Data Visualization | AI/ML</h3>
 
