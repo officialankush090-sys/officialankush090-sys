@@ -1,4 +1,6 @@
-curl ascii.live/rick
+ 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝕥𝕖𝕣𝕣𝕚𝕥𝕠𝕣𝕪 
+       👻 Hehehe... 👻
+ 🕸️───────────────────🕸️
 
  <h1 align="center">Hi 👋, I'm Ankush Sharma</h1>
 <h3 align="center">Student @ SIET Nilokheri | Data Analyst | Python | SQL | Data Visualization | AI/ML</h3>
