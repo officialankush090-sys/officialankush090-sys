@@ -1,5 +1,5 @@
  𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝕥𝕖𝕣𝕣𝕚𝕥𝕠𝕣𝕪 
-       ![Detective Illustration](WhatsApp Image 2026-09-18 at 10.10.01 PM.jpeg)
+       
 
  <h1 align="center">Hi 👋, I'm Ankush Sharma</h1>
 <h3 align="center">Student @ SIET Nilokheri | Data Analyst | Python | SQL | Data Visualization | AI/ML</h3>
